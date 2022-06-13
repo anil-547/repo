@@ -1,2 +1,1 @@
-hi file b
-file b msf
+changes by manasa in b.text
